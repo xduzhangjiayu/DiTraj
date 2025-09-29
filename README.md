@@ -19,7 +19,7 @@
 We propose <strong>DiTraj</strong>, a training-free trajectory control framework for DiT-based video generation model. Our method achieves state-of-the-art performance in both video quality and trajectory controllability. It can be adapted to most DiT-based video generation models (Wan2.1, CogVideoX etc.).
 </p>
 
-# 📖 Pipeline
+## 📖 Pipeline
 <p>
 <div align="center">
 <img src="teaser/method.png" width="1080px"/>
@@ -32,14 +32,14 @@ We propose <strong>DiTraj</strong>, a training-free trajectory control framework
 <div>
 <div>
 
-# 🔥 News
+## 🔥 News
 [2025.9.29] Paper released!
 
 
 <div>
 <div>
 
-# 🖋️ Citation
+## 🖋️ Citation
 
 If you find our work helpful, please **star 🌟** this repo and **cite 📑** our paper. Thanks for your support!
 ```
