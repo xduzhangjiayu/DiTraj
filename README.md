@@ -1,2 +1,2 @@
 <div align="center">
-<h3>DiTraj: Training-free Trajectory Control For Video Diffusion Transformer</h3>
+<h2>DiTraj: Training-free Trajectory Control For Video Diffusion Transformer</h2>
