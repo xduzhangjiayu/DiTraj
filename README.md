@@ -1,1 +1,1 @@
-# DiTraj
+# DiTraj: Training-free Trajectory Control For Video Diffusion Transformer
