@@ -7,6 +7,9 @@
 
 †Equal Contribution &emsp; ‡ Project Lead &emsp; *Corresponding Author
 
+<div align="left">
+We propose DiTraj, the first training-free trajectory control framework for DiT-based video generation model. Given
+an input bbox trajectory guidance, DiTraj enables generating high-quality videos that align with the target trajectory. Our method achieves state-of-the-art performance in both video quality and trajectory controllability. It can be adapted to most DiT-based video generation models (Wan2.1, CogVideoX etc.).
 
 <a href='https://xduzhangjiayu.github.io/DiTraj_Project_Page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.21839-b31b1b.svg)](https://arxiv.org/abs/2509.21839)
@@ -39,8 +42,6 @@
 <div align="left">
 <div>
 <div>
-We propose DiTraj, the first training-free trajectory control framework for DiT-based video generation model. Given
-an input bbox trajectory guidance, DiTraj enables generating high-quality videos that align with the target trajectory. Our method achieves state-of-the-art performance in both video quality and trajectory controllability. It can be adapted to most DiT-based video generation models (Wan2.1, CogVideoX etc.).
 <div align="left">
 <div>
 <div>
