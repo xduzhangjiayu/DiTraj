@@ -12,12 +12,24 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2509.21839-b31b1b.svg)](https://arxiv.org/abs/2509.21839)
 [![GitHub Stars](https://img.shields.io/github/stars/xduzhangjiayu/DiTraj)](https://github.com/xduzhangjiayu/DiTraj)
 
+<div align="left">
 
-</div>
+## 🎇 Showcase
+<table class="center">
+  <td><img src=teaser/2.gif width="256"></td>
+  <td><img src=teaser/5.gif width="256"></td>
+  <td><img src=teaser/6.gif width="256"></td>
+</table >
 
-<p>
-We propose <strong>DiTraj</strong>, a training-free trajectory control framework for DiT-based video generation model. Our method achieves state-of-the-art performance in both video quality and trajectory controllability. It can be adapted to most DiT-based video generation models (Wan2.1, CogVideoX etc.).
-</p>
+<table class="center">
+  <td><img src=teaser/7.gif width="256"></td>
+  <td><img src=teaser/8.gif width="256"></td>
+  <td><img src=teaser/9.gif width="256"></td>
+</table >
+
+<div align="left">
+
+
 
 ## 📖 Pipeline
 <p>
@@ -27,7 +39,8 @@ We propose <strong>DiTraj</strong>, a training-free trajectory control framework
 <div align="left">
 <div>
 <div>
-
+We propose DiTraj, the first training-free trajectory control framework for DiT-based video generation model. Given
+an input bbox trajectory guidance, DiTraj enables generating high-quality videos that align with the target trajectory. Our method achieves state-of-the-art performance in both video quality and trajectory controllability. It can be adapted to most DiT-based video generation models (Wan2.1, CogVideoX etc.).
 <div align="left">
 <div>
 <div>
