@@ -31,6 +31,7 @@ an input bbox trajectory guidance, DiTraj enables generating high-quality videos
   <td><img src=teaser/8.gif width="256"></td>
   <td><img src=teaser/9.gif width="256"></td>
 </table >
+For more examples, please refer to our project page (https://xduzhangjiayu.github.io/DiTraj_Project_Page/).
 
 <div align="left">
 
